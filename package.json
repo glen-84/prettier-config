@@ -1,0 +1,21 @@
+{
+  "name": "@glen-84/prettier-config",
+  "version": "1.0.0",
+  "description": "A shareable Prettier config.",
+  "author": "Glen Ainscow",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "peerDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glen-84/prettier-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "license": "MIT"
+}
