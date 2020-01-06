@@ -10,8 +10,8 @@ A shareable [Prettier](https://prettier.io/) config.
     ```npmrc
     @glen-84:registry=https://npm.pkg.github.com
     ```
-1. Run `npm install @glen-84/prettier-config --save-dev`.
-2. Add `"prettier": "@glen-84/prettier-config"` to your `package.json` file.
+2. Run `npm install @glen-84/prettier-config --save-dev`.
+3. Add `"prettier": "@glen-84/prettier-config"` to your `package.json` file.
 
 ## Development
 
