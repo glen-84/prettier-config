@@ -8,7 +8,7 @@
     "index.json"
   ],
   "peerDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^2.0.0"
   },
   "repository": {
     "type": "git",
