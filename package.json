@@ -1,6 +1,6 @@
 {
   "name": "@glen-84/prettier-config",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A shareable Prettier config.",
   "author": "Glen Ainscow",
   "main": "index.json",
