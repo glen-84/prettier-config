@@ -1,12 +1,14 @@
 {
     "$schema": "http://json.schemastore.org/prettierrc",
     "arrowParens": "always",
+    "braceStyle": "psr-2",
     "bracketSpacing": false,
     "endOfLine": "lf",
     "htmlWhitespaceSensitivity": "css",
     "insertPragma": false,
     "jsxBracketSameLine": true,
     "jsxSingleQuote": false,
+    "phpVersion": "7.4",
     "printWidth": 100,
     "proseWrap": "preserve",
     "quoteProps": "consistent",
@@ -15,6 +17,7 @@
     "singleQuote": false,
     "tabWidth": 4,
     "trailingComma": "none",
+    "trailingCommaPHP": false,
     "useTabs": false,
     "vueIndentScriptAndStyle": false
 }
