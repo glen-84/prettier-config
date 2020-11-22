@@ -1,21 +1,21 @@
 {
-  "name": "@glen-84/prettier-config",
-  "version": "2.1.1",
-  "description": "A shareable Prettier config.",
-  "author": "Glen Ainscow",
-  "main": "index.json",
-  "files": [
-    "index.json"
-  ],
-  "peerDependencies": {
-    "prettier": "^2.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/glen-84/prettier-config.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
-  "license": "MIT"
+    "name": "@glen-84/prettier-config",
+    "version": "2.1.1",
+    "description": "A shareable Prettier config.",
+    "author": "Glen Ainscow",
+    "main": "index.json",
+    "files": [
+        "index.json"
+    ],
+    "peerDependencies": {
+        "prettier": "^2.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/glen-84/prettier-config.git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "license": "MIT"
 }
